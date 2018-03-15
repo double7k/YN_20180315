@@ -15,6 +15,7 @@ int main(void){
 	int year1;
 	int year2;
 	int year3;
+	int year4;
 
 	printf("연도 : %d\n", year);
 
